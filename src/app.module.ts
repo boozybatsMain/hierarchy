@@ -31,6 +31,6 @@ import { User } from './users/user.entity'
         UsersModule,
     ],
     controllers: [AppController],
-    providers: [UsersService],
+    providers: [],
 })
 export class AppModule {}
